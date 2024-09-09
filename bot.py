@@ -2,6 +2,7 @@ import discord
 from discord.ext import tasks
 from datetime import datetime, timedelta
 import mariadb
+import os
 import sys
 import logging
 
